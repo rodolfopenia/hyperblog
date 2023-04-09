@@ -1,1 +1,4 @@
 esto es un ejemplo de archivo de texto.
+Mi nombre es Rodolfo Peña
+y tengo 31 años. 
+Y nací en Perú
